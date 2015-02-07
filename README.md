@@ -1,4 +1,4 @@
-# Box / Unboxing vs. Encapsulation: Java's Map<Something, Integer>
+# Box / Unboxing vs. Encapsulation: Java's `Map<Something, Integer>`
 
 Problem: I want a map that store integer as its value. Now i
 have two approaches:
